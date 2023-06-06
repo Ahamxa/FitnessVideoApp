@@ -1,0 +1,18 @@
+.score-widget{
+    position: absolute;
+    top: 10px;
+    padding: 10px;
+    background-color: transparent;
+    left: 10px;
+    align-items: center;
+  text-align: center;
+  color: azure;
+}
+
+.score-widget h3{
+    padding: 0;
+    margin: 0;
+  font-size: 40px;
+  color: azure;
+  font-family: 'Oswald', sans-serif;
+}
